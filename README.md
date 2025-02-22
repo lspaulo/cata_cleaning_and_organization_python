@@ -1,5 +1,8 @@
 # 🛒 Análise RFM de Clientes - E-commerce
 
+
+<img src="img/banner.jpg" alt="Capa" style="width: 300px; height: auto;">
+    
 Este projeto foi desenvolvido como parte de um desafio da DNC para calcular os indicadores de Recência, Frequência e Ticket Médio (RFM) de clientes de um e-commerce. O objetivo é fornecer insights valiosos sobre o comportamento dos clientes.
 
 ---
